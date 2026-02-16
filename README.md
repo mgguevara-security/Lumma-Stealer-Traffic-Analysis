@@ -55,7 +55,7 @@ Relación entre la IP maliciosa y la resolución del dominio mediante el filtro 
 
 ## 5. Cronología del Análisis (Metodología)
 Para la resolución de este caso se aplicaron los siguientes filtros en Wireshark:
-1. **Filtro DHCP:** `bootp` para identificar el nombre del dispositivo.
+1. **Filtro DHCP:** `dhcp` para identificar el nombre del dispositivo.
 2. **Filtro de Usuario:** Búsqueda por cadena "Wyatt" en detalles de paquetes.
 3. **Filtro de Dominio:** `dns.a == 153.92.1.49` para confirmar la resolución del nombre malicioso.
 
@@ -72,6 +72,7 @@ El comportamiento del tráfico es consistente con las tácticas de **Lumma Steal
 ---
 
 *Reporte generado con fines de entrenamiento en ciberseguridad.*
+
 
 
 
