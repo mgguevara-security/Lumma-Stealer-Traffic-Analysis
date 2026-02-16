@@ -3,8 +3,8 @@
 
 **Fecha:** 16 de Febrero, 2026  
 **ID de Incidente:** INC-2026-001  
-**Analista:** [Tu Nombre]  
-**Gravedad:** 🔴 CRÍTICA
+**Analista:** MARCOS GASTON GUEVARA 
+**Gravedad:**  CRÍTICA
 
 ---
 
@@ -71,4 +71,5 @@ El comportamiento del tráfico es consistente con las tácticas de **Lumma Steal
 3. **Análisis de persistencia** en el equipo antes de proceder con el re-formateo.
 
 ---
+
 *Reporte generado con fines de entrenamiento en ciberseguridad.*
