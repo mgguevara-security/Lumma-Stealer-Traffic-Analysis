@@ -2,7 +2,7 @@
 #   Reporte de Análisis Forense: Infección Lumma Stealer
 **Fecha:** 16 de Febrero, 2026  
 **ID de Incidente:** INC-2026-001  
-**Analista:** MARCOS GASTON GUEVARA  
+**Autor:** MARCOS GASTON GUEVARA  
 **Gravedad:**  CRÍTICA
 
 ---
